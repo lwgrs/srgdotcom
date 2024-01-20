@@ -1,0 +1,24 @@
+{
+    "podcast": [
+        {
+            "name": "Jays From Home",
+            "url": "https://linktr.ee/JaysFromHome",
+            "feed": "https://pinecast.com/feed/jays-from-home"
+        },
+        {
+            "name": "The Slow Reader", 
+            "url": "https://slowreader.art.blog",
+            "feed": "https://pinecast.com/feed/slow-reader"
+        },
+        {
+            "name": "Alternative Airwaves",
+            "url": "https://www.alternativeairwaves.com",
+            "feed": "https://pinecast.com/feed/alternative-airwaves"
+        },
+        {
+            "name": "Futurama Pedia",
+            "url": "http://futuramapedia.blogspot.com/",
+            "feed": "https://pinecast.com/feed/futurama-pedia"
+        }
+    ]
+}
