@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 ### Here's some places where I write: 
 
-ʕ•ᴥ•ʔ [An Almost Anonymous Blog](https://lwgrs.bearblog.dev): A collection of personal blog entries ranging from short to long and covering various topics. There's no proper organizational flow to this blog, it's just whatever comes to mind. I recommend starting with theses posts:  
+ʕ•ᴥ•ʔ [An Almost Anonymous Blog](https://lwgrs.bearblog.dev): A collection of personal blog entries ranging from short to long and covering various topics. There's no proper organizational flow to this blog, it's just whatever comes to mind. You can view the [most recent posts](/blog/) or start with theses posts:  
 
 * [Sunday, or: How I Did Everything Wrong](https://lwgrs.bearblog.dev/sunday-or-how-i-did-everything-wrong/) 
 * [Timeline of a Project](https://lwgrs.bearblog.dev/timeline-of-a-project/) 
