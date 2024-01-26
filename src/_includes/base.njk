@@ -9,7 +9,7 @@
 <body>
   <header>
     <img class="profile" src="/images/profile-image.jpg" alt="A profile photo of Stephen Gower" />
-    <h2 class="site-title"><!-- <a href="/" class="site-title"> --> {{ metadata.title }}<!-- </a> --></h2>
+    <h2 class="site-title"> {{ metadata.title }}</h2>
      <nav>
 				<ul class="nav">
 				{%- for entry in collections.all | eleventyNavigation %}
