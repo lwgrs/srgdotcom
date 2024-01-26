@@ -1,7 +1,7 @@
 const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItFootnote = require("markdown-it-footnote");
-const Image = require("@11ty/eleventy-img");
+const markdownItEleventyImg = require("markdown-it-eleventy-img");
 const path = require('path');
 
 
@@ -13,7 +13,9 @@ module.exports = function (eleventyConfig) {
   };
   
   let markdownLib =  markdownIt(options).use(markdownItFootnote);
+
   eleventyConfig.setLibrary("md", markdownLib);
+
   eleventyConfig.addPlugin(pluginNavigation);  
   eleventyConfig.addPassthroughCopy("./src/css");
   eleventyConfig.addWatchTarget("./src/css/");

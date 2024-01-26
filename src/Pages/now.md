@@ -4,7 +4,9 @@ eleventyNavigation:
     key: Now
     order: 5
 ---
-<p class="now-page">Page last updated: <strong style="color: #d90202;">January 2024</strong>.</p> 
+
+<p class="now-page">Page last updated: <strong style="color:#d90202;"> January 2024</strong>.</p>
+
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/About/](https://nownownow.com/About/). In an effort to maintain quick load times, this page is being updated manually.*
 
@@ -32,8 +34,10 @@ You can check out my full [Goodreads profile](https://www.goodreads.com/user/sho
 
 ### 2023 Spotify Wrapped
 
-<a href="https://open.spotify.com/wrapped/share/share-f5d4a74b1e7c482db82f448ddd907c5c-1080x1920?lang=en&destination=datastories&si=ZmYyZjhiZDAtNGE1MS00OGNmLThiNTAtMWEyMmNkOGMzMTll">
-<img style="width: 20%; height: 20%;" src="/images/2023wrapped_summary-share.jpeg" />
-</a>
+<span class="now-page">
+
+[![2023 Spotify Wrapped](/images/2023wrapped_summary-share.jpeg "My 2023 Spotify Wrapped Graphic")](https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY?si=e6158d98d7074ef9&nd=1&dlsi=2e7f9a553c584ab4)
+
+</span>
 
 [^1]: Not road traffic - it's this kind: [https://en.m.wikipedia.org/wiki/Traffic_(broadcasting)](https://en.m.wikipedia.org/wiki/Traffic_(broadcasting))
