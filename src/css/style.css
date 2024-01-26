@@ -131,6 +131,12 @@ a.contact {
   height: 7%;
   vertical-align: middle;
 }
+img[src*="#podcast-logo"] {
+	border-radius: 15px;
+	width: 7%; 
+	height: 7%; 
+	vertical-align: middle;
+}
 .about {
   display: inline-block;
 }
