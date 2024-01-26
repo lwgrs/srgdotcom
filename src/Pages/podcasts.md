@@ -1,5 +1,5 @@
 ---
-Title: Podcasts
+title: Podcasts
 eleventyNavigation:
   key: Podcasts
   order: 3
