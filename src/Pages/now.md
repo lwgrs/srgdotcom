@@ -23,9 +23,11 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of [Roge
 
 You can check out my full [Goodreads profile](https://www.goodreads.com/user/show/2474979-stephen-gower), but here's a snapshot of a few books I've read lately. 
 
-* [Moon of the Crusted Snow](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow) by Waubgeshig Rice
-* [The Caves of Steel](https://www.goodreads.com/book/show/11097712-the-caves-of-steel) by Isaac Asimov
-* [Red Team Blues](https://www.goodreads.com/book/show/60784891-red-team-blues) by Cory Doctorow
+[![Spider-Man: Life Story book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578610950i/44286872.jpg#book "Spider-Man: Life Story by Chip Zdarsky and Mark Bagley(Illustrator)")](https://www.goodreads.com/book/show/44286872-spider-man)[![Moon of the Crusted Snow book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521066996i/39082248.jpg#book "Moon of the Crusted Snow by Waubgeshig Rice")](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow)[![The Caves of Steel book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328328744i/11097712.jpg#book "The Caves of Steel by Isaac Asimov")](https://www.goodreads.com/book/show/11097712-the-caves-of-steel)[![Red Team Blues book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667870448i/60784891.jpg#book "Red Team Blues by Cory Doctorow")](https://www.goodreads.com/book/show/60784891-red-team-blues) 
+[Spider-Man: Life Story](https://www.goodreads.com/book/show/44286872-spider-man) by Chip Zdarsky and Mark Bagley (Illustrator)
+[Moon of the Crusted Snow](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow) by Waubgeshig Rice 
+[The Caves of Steel](https://www.goodreads.com/book/show/11097712-the-caves-of-steel) by Isaac Asimov 
+[Red Team Blues](https://www.goodreads.com/book/show/60784891-red-team-blues) by Cory Doctorow
 
 ### Other Interests and Hobbies 
 * Podcasts

@@ -152,3 +152,8 @@ img[src*="#podcast-logo"] {
   font-family: monospace;
   font-size: smaller;
 }
+img[src*="#book"] {
+  width: 7%;
+  height: 7%;
+  padding: 0;
+}
