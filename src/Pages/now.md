@@ -32,12 +32,8 @@ You can check out my full [Goodreads profile](https://www.goodreads.com/user/sho
 * Music 
 * Photography 
 
-### 2023 Spotify Wrapped
-
-<span class="now-page">
+### Music
 
 [![2023 Spotify Wrapped](/images/2023wrapped_summary-share.jpeg "My 2023 Spotify Wrapped Graphic")](https://open.spotify.com/playlist/37i9dQZF1DX18jTM2l2fJY?si=e6158d98d7074ef9&nd=1&dlsi=2e7f9a553c584ab4)
-
-</span>
 
 [^1]: Not road traffic - it's this kind: [https://en.m.wikipedia.org/wiki/Traffic_(broadcasting)](https://en.m.wikipedia.org/wiki/Traffic_(broadcasting))
