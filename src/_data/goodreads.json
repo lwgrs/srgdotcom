@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Spider-Man: Life Story",
+    "url": "https://www.goodreads.com/book/show/44286872-spider-man",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578610950i/44286872.jpg#book",
+    "author": "Chip Zdarsky and Mark Bagley (Illustrator)"
+  },
+  { 
+    "title": "[Book Title]",
+    "url": "[Goodreads URL]",
+    "cover": "[Book Cover URL]",
+    "author": "[Author]"
+  }
+]
