@@ -11,11 +11,11 @@ eleventyNavigation:
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/About/](https://nownownow.com/About/). In an effort to maintain quick load times, this page is being updated manually.*
 
 ### Work 
-I'm currently the Regional Traffic Manager for Rogers Radio (a division of [Rogers Sports & Media](https://www.rogerssportsandmedia.com)) in Ottawa, Ontario.[^1] I've been there since May 2006. 
+I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a href="https://www.rogerssportsandmedia.com" target="_blank">Rogers Sports & Media</a>) in Ottawa, Ontario.[^1] I've been there since May 2006. 
 
 ### Current Projects  
 
-* This webpage 
+* This website 
 * Several [podcasts](/podcasts/)
 * [An Almost Anonymous Blog](https://lwgrs.bearblog.dev) 
 
@@ -23,11 +23,27 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of [Roge
 
 You can check out my full [Goodreads profile](https://www.goodreads.com/user/show/2474979-stephen-gower), but here's a snapshot of a few books I've read lately. 
 
-[![Spider-Man: Life Story book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578610950i/44286872.jpg#book "Spider-Man: Life Story by Chip Zdarsky and Mark Bagley(Illustrator)")](https://www.goodreads.com/book/show/44286872-spider-man)[![Moon of the Crusted Snow book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521066996i/39082248.jpg#book "Moon of the Crusted Snow by Waubgeshig Rice")](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow)[![The Caves of Steel book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328328744i/11097712.jpg#book "The Caves of Steel by Isaac Asimov")](https://www.goodreads.com/book/show/11097712-the-caves-of-steel)[![Red Team Blues book cover](https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667870448i/60784891.jpg#book "Red Team Blues by Cory Doctorow")](https://www.goodreads.com/book/show/60784891-red-team-blues) 
+<!-- Book covers -->
+
+<ul class="booknav">
+{%- for book in books %}
+ <li class="book-item"><a href="{{ book.url }}"><img class="book" src="{{ book.cover }}" alt="{{ book.title }} cover" title="{{ book.title}} by {{ book.author }}"></a></li> 
+{% endfor%}
+</ul>
+
+<ul>
+<!-- Book list -->
+{%- for book in books %} 
+<li><a href="{{ book.url }}">{{ book.title }}</a> by {{ book.author }} </li>
+{% endfor%}
+</ul> 
+
+<!--
 [Spider-Man: Life Story](https://www.goodreads.com/book/show/44286872-spider-man) by Chip Zdarsky and Mark Bagley (Illustrator)
 [Moon of the Crusted Snow](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow) by Waubgeshig Rice 
 [The Caves of Steel](https://www.goodreads.com/book/show/11097712-the-caves-of-steel) by Isaac Asimov 
-[Red Team Blues](https://www.goodreads.com/book/show/60784891-red-team-blues) by Cory Doctorow
+[Red Team Blues](https://www.goodreads.com/book/show/60784891-red-team-blues) by Cory Doctorow 
+-->
 
 ### Other Interests and Hobbies 
 * Podcasts

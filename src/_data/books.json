@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Spider-Man: Life Story",
+    "url": "https://www.goodreads.com/book/show/44286872-spider-man",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1578610950i/44286872.jpg",
+    "author": "Chip Zdarsky and Mark Bagley (Illustrator)"
+  },
+  { 
+    "title": "Moon of the Crusted Snow",
+    "url": "https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521066996i/39082248.jpg",
+    "author": "Waubgeshig Rice"
+  },
+  { 
+    "title": "The Caves of Steel",
+    "url": "https://www.goodreads.com/book/show/11097712-the-caves-of-steel",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328328744i/11097712.jpg",
+    "author": "Isaac Asimov"
+  },
+  {
+    "title": "Red Team Blues",
+    "url": "https://www.goodreads.com/book/show/60784891-red-team-blues",
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667870448i/60784891.jpg",
+    "author": "Cory Doctorow"
+  }
+]
