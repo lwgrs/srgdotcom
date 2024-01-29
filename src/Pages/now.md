@@ -24,15 +24,14 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 You can check out my full [Goodreads profile](https://www.goodreads.com/user/show/2474979-stephen-gower), but here's a snapshot of a few books I've read lately. 
 
 <!-- Book covers -->
-
 <ul class="booknav">
 {%- for book in books %}
  <li class="book-item"><a href="{{ book.url }}"><img class="book" src="{{ book.cover }}" alt="{{ book.title }} cover" title="{{ book.title}} by {{ book.author }}"></a></li> 
 {% endfor%}
 </ul>
 
-<ul>
 <!-- Book list -->
+<ul>
 {%- for book in books %} 
 <li><a href="{{ book.url }}">{{ book.title }}</a> by {{ book.author }} </li>
 {% endfor%}
