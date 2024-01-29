@@ -38,12 +38,6 @@ You can check out my full [Goodreads profile](https://www.goodreads.com/user/sho
 {% endfor%}
 </ul> 
 
-<!--
-[Spider-Man: Life Story](https://www.goodreads.com/book/show/44286872-spider-man) by Chip Zdarsky and Mark Bagley (Illustrator)
-[Moon of the Crusted Snow](https://www.goodreads.com/book/show/39082248-moon-of-the-crusted-snow) by Waubgeshig Rice 
-[The Caves of Steel](https://www.goodreads.com/book/show/11097712-the-caves-of-steel) by Isaac Asimov 
-[Red Team Blues](https://www.goodreads.com/book/show/60784891-red-team-blues) by Cory Doctorow 
--->
 
 ### Other Interests and Hobbies 
 * Podcasts
