@@ -33,7 +33,7 @@ You can check out my full [Goodreads profile](https://www.goodreads.com/user/sho
 <!-- Book list -->
 <ul>
 {%- for book in books %} 
-<li><a href="{{ book.url }}">{{ book.title }}</a> by {{ book.author }} </li>
+<li><a href="{{ book.url }}">{{ book.title }}</a> by {{ book.author }} {{ book.stars }}</li>
 {% endfor%}
 </ul> 
 
