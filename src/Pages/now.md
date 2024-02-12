@@ -5,7 +5,7 @@ eleventyNavigation:
     order: 5
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;"> January 2024</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;"> February 2024</strong>.</p>
 
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/About/](https://nownownow.com/About/). In an effort to maintain quick load times, this page is being updated manually.*
