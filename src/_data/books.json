@@ -1,5 +1,12 @@
 [
   {
+    "title": "Mighty Marvel Masterworks: The Silver Surfer Vol. 1 - The Sentinel Of The Spaceways", 
+    "url": "https://www.goodreads.com/book/show/125771782-mighty-marvel-masterworks", 
+    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687769054i/125771782.jpg",
+    "author": "Stan Lee, Marvel Various (Illustrator), Roy Thomas (Writer)", 
+    "stars": "&#11088"
+  },
+  {
     "title": "Han Solo and the Lost Legacy", 
     "url": "https://www.goodreads.com/book/show/898955.Han_Solo_and_the_Lost_Legacy", 
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1179285913i/898955.jpg",
@@ -25,13 +32,6 @@
     "url": "https://www.goodreads.com/book/show/11097712-the-caves-of-steel",
     "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328328744i/11097712.jpg",
     "author": "Isaac Asimov",
-    "stars": "&#11088&#11088&#11088&#11088"
-  },
-  {
-    "title": "Red Team Blues",
-    "url": "https://www.goodreads.com/book/show/60784891-red-team-blues",
-    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1667870448i/60784891.jpg",
-    "author": "Cory Doctorow",
     "stars": "&#11088&#11088&#11088&#11088"
   }
 ]
