@@ -21,7 +21,7 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 
 ### Latest Reads 
 
-You can check out my full [Goodreads profile](https://www.goodreads.com/user/show/2474979-stephen-gower), but here's a snapshot of a few books I've read lately. 
+You can check out my full [Storygraph profile](https://app.thestorygraph.com/profile/srgower), but here's a snapshot of a few books I've read lately. 
 
 <!-- Book covers -->
 <ul class="booknav">
