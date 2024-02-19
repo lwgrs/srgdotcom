@@ -19,9 +19,24 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 * Several [podcasts](/podcasts/)
 * [An Almost Anonymous Blog](https://lwgrs.bearblog.dev) 
 
-### Latest Reads 
+### Reading 
 
 You can check out my full [Storygraph profile](https://app.thestorygraph.com/profile/srgower), but here's a snapshot of a few books I've read lately. 
+
+#### Currently Reading 
+
+<!-- Currently Reading -->
+<ul class="booknav">
+{%- for book in currentreads %}
+ <li class="book-item"><a href="{{ book.url }}"><img class="book" src="{{ book.cover }}" alt="{{ book.title }} cover" title="{{ book.title}} by {{ book.author }}"></a></li> 
+{% endfor%}
+</ul>
+
+<ul>
+{%- book in currentreads %} 
+<li><a href="{{ book.url }}">{{ book.title }}</a> by {{ book.author }} {{ book.stars }}</li>
+{% endfor%}
+</ul> 
 
 <!-- Book covers -->
 <ul class="booknav">
