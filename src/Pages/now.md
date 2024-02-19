@@ -38,6 +38,8 @@ You can check out my full [Storygraph profile](https://app.thestorygraph.com/pro
 {% endfor%}
 </ul> 
 
+#### Recently Finished Books 
+
 <!-- Book covers -->
 <ul class="booknav">
 {%- for book in books %}
