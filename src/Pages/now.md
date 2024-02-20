@@ -8,7 +8,7 @@ eleventyNavigation:
 <p class="now-page">Page last updated: <strong style="color:#d90202;"> February 2024</strong>.</p>
 
 
-*This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about/](https://nownownow.com/about/). In an effort to maintain quick load times, this page is being updated manually.*
+*This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about). In an effort to maintain quick load times, this page is being updated manually.*
 
 ### Work 
 I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a href="https://www.rogerssportsandmedia.com" target="_blank">Rogers Sports & Media</a>) in Ottawa, Ontario.[^1] I've been there since May 2006. 
