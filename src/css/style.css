@@ -163,9 +163,9 @@ div.scroll-container {
 }
 
 .book {
-  width: auto;
-  height: 90%;
-  padding: 2px;
+  width: 10%;
+  height: 10%;
+  padding: 0px;
 }
 
 .booknav {
