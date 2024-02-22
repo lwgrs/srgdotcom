@@ -153,10 +153,19 @@ img[src*="#podcast-logo"] {
   font-size: smaller;
 }
 
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 5px;
+  width: 220px;
+  height: auto;
+}
+
 .book {
-  width: 10%;
-  height: 10%;
-  padding: 0;
+  width: auto;
+  height: 90%;
+  padding: 2px;
 }
 
 .booknav {
