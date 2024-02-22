@@ -26,28 +26,29 @@ You can check out my full [Storygraph profile](https://app.thestorygraph.com/pro
 ##### Currently Reading 
 
 <!-- Currently Reading -->
-<ul class="booknav">
 
+<div class="scroll-container">
+<ul class="booknav">
  <li class="book-item"><a href="https://www.harpercollins.ca/9781443457859/outsider/"><img class="book" src="https://cdn.thestorygraph.com/e0hs1n70e1ekkfrecmrctc729cdn" alt="Outsider: An Old Man, a Mountain and the Search for a Hidden Past cover" title="Outsider: An Old Man, a Mountain and the Search for a Hidden Past by Brett Popplewell"></a></li>
  <li class="book-item"><a href="https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738"><img class="book" src="https://cdn.thestorygraph.com/jx2kcbwulth959nnz30rxrvwst0a" alt="Making It So cover" title="Making It So by Patrick Stewart"></a></li> 
-
 </ul>
+</div>
 
 <ul>
-
 <li><a href="https://www.harpercollins.ca/9781443457859/outsider/">Outsider: An Old Man, a Mountain and the Search for a Hidden Past</a> by Brett Popplewell</li>
 <li><a href="https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738">Making It So</a> by Patrick Stewart</li>
-
 </ul> 
 
 ##### Recently Finished Books 
 
 <!-- Book covers -->
+<div class="scroll-container">
 <ul class="booknav">
 {%- for book in books %}
  <li class="book-item"><a href="{{ book.url }}"><img class="book" src="{{ book.cover }}" alt="{{ book.title }} cover" title="{{ book.title}} by {{ book.author }}"></a></li> 
 {% endfor%}
 </ul>
+</div>
 
 <!-- Book list -->
 <ul>
