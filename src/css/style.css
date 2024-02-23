@@ -158,15 +158,25 @@ div.scroll-container {
   overflow: auto;
   white-space: nowrap;
   padding: 5px;
-  width: 220px;
+  width: 250px;
   height: auto;
 }
 
+/* Test book class code to go with scroll container */
+
+.book {
+  width: auto;
+  height: 90px;
+  padding: 0px;
+}
+
+/* Original book class code 
 .book {
   width: 10%;
   height: 10%;
   padding: 0px;
 }
+*/
 
 .booknav {
   list-style: none;
