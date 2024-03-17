@@ -33,9 +33,10 @@ You can check out my full [Storygraph profile](https://app.thestorygraph.com/pro
 </div>
 
 <ul>
-<li><a href="https://www.harpercollins.ca/9781443457859/outsider/">Outsider: An Old Man, a Mountain and the Search for a Hidden Past</a> by Brett Popplewell</li>
-<li><a href="https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738">Making It So</a> by Patrick Stewart</li>
-</ul> 
+{%- for book in currentreads %}
+  <li><a href="{{ book.url }}">{{ book.title }}</a> by {{ book.author }}</li>
+  {% endfor%}
+</ul>
 
 ##### Recently Finished Books 
 
@@ -53,10 +54,31 @@ You can check out my full [Storygraph profile](https://app.thestorygraph.com/pro
 {% endfor%}
 </ul> 
 
+### Watching 
+
+##### Movies 
+I keep track of movies watched on [Letterboxd](https://letterboxd.com/stephen_g/) - feel free to check me out there. Here are some recent films I've seen: 
+
+<ul>
+{% for movie in movies %} 
+<li>{{ movie.title }} - {{ movie.rating }} <sub><em><a href="{{ movie.review }}">Review</a></em></li></sub>
+{% endfor%}
+</ul>
+
+##### TV Shows 
+
+I switch around TV shows a lot more often than movies; but here's what I have in rotation at the moment: 
+* NCIS 
+* Law & Order Organized Crime 
+* Law & Order Toronto Criminal Intent 
+* Chicago Med 
+* X-Men (1992-1997) 
+
 ### Other Interests and Hobbies 
-* Podcasts - [Download my current OPML list](/_data/PocketCasts.opml)
+* Podcasts - [Download my current OPML list](/files/PocketCasts.opml)
 * Music 
 * Photography 
+* Movies & TV
 
 ### Music
 
