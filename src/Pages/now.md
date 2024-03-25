@@ -19,7 +19,7 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 * Several [podcasts](/podcasts/)
 * [An Almost Anonymous Blog](https://lwgrs.bearblog.dev) 
 
-### Reading 
+<h3 id="reading">Reading</h3> 
 
 You can check out my full [Storygraph profile](https://app.thestorygraph.com/profile/srgower), but here's a snapshot of a few books I've read lately. 
 
@@ -54,7 +54,7 @@ You can check out my full [Storygraph profile](https://app.thestorygraph.com/pro
 {% endfor%}
 </ul> 
 
-### Watching 
+<h3 id="watching">Watching</h3> 
 
 ##### Movies 
 I keep track of movies watched on [Letterboxd](https://letterboxd.com/stephen_g/) - feel free to check me out there. Here are some recent films I've seen: 
