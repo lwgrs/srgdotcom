@@ -68,11 +68,12 @@ I keep track of movies watched on [Letterboxd](https://letterboxd.com/stephen_g/
 ##### TV Shows 
 
 I switch around TV shows a lot more often than movies; but here's what I have in rotation at the moment: 
-* The Crown (Season 1)
+* The Crown (Season 2)
 * NCIS 
 * Law & Order Organized Crime 
 * Law & Order Toronto Criminal Intent 
-* Chicago Med 
+* Chicago Med
+* Flight of the Concords *(Re-watch)*
 * X-Men (1992-1997) 
 
 ### Other Interests and Hobbies 
