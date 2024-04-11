@@ -5,7 +5,7 @@ eleventyNavigation:
     order: 5
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;"> March 2024</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;"> April 2024</strong>.</p>
 
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about). In an effort to maintain quick load times, this page is being updated manually.*
@@ -68,11 +68,12 @@ I keep track of movies watched on [Letterboxd](https://letterboxd.com/stephen_g/
 ##### TV Shows 
 
 I switch around TV shows a lot more often than movies; but here's what I have in rotation at the moment: 
-* The Crown (Season 2)
+* The Crown (Season 3)
 * NCIS 
 * Law & Order Organized Crime 
 * Law & Order Toronto Criminal Intent 
 * Chicago Med
+* Star Trek Discovery
 * Flight of the Conchords *(Re-watch)*
 * X-Men (1992-1997) 
 
