@@ -1,5 +1,12 @@
 [
   {
+        "title": "The Bezzle",
+        "url": "https://us.macmillan.com/books/9781250865878/thebezzle",
+        "cover": "https://cdn.thestorygraph.com/kjk6p2cguqakdh87iu0wezu0llvy",
+        "author": "Cory Doctorow",
+        "stars": &#11088&#11088&#11088
+    },
+  {
       "title": "Outsider: An Old Man, a Mountain and the Search for a Hidden Past", 
       "url": "https://www.harpercollins.ca/9781443457859/outsider/", 
       "cover": "https://cdn.thestorygraph.com/e0hs1n70e1ekkfrecmrctc729cdn",
@@ -25,13 +32,6 @@
     "url": "https://everythingcomics.ca/products/jan231023",
     "cover": "https://cdn.thestorygraph.com/004pc9u6hemfdzvv4nec4il2gxfg",
     "author": "Chip Zdarsky and Mark Bagley (Illustrator)",
-    "stars": "&#11088&#11088&#11088&#11088"
-  },
-  { 
-    "title": "Moon of the Crusted Snow",
-    "url": "https://ecwpress.com/products/moon-of-the-crusted-snow",
-    "cover": "https://cdn.thestorygraph.com/f97rjfv5zr3zv4ojchifrnsqpsvr",
-    "author": "Waubgeshig Rice",
     "stars": "&#11088&#11088&#11088&#11088"
   }
 ]
