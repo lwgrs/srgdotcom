@@ -13,6 +13,6 @@ module.exports = {
 		"filename": "feed.xml",
 		"path": "/feed/feed.xml",
 		"url": "https://srgower.com/feed/feed.xml",
-		"id": "https://srgower.com/"
+		"id": "https://srgower.com/weeknotes/"
 	}
 }

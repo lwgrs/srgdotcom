@@ -4,6 +4,7 @@ const markdownItFootnote = require("markdown-it-footnote");
 const markdownItEleventyImg = require("markdown-it-eleventy-img");
 const path = require('path');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const { DateTime } = require("luxon");
 
 
 module.exports = function (eleventyConfig) {
@@ -32,6 +33,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/Pages/weeknotes/");
   eleventyConfig.addWatchTarget("./src/Pages/weeknotes/");
 
+  eleventyConfig.addFilter("readableDate", dateObj => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+  });
+  
+  // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
+eleventyConfig.addFilter('htmlDateString', (dateObj) => {
+  return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
+});
 
   return {
     dir: {

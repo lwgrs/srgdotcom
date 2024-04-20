@@ -4,6 +4,7 @@ date: "2024-04-16"
 tags: post
 ---
 <em>Published on {{ date }}</em>
+<a href="/weeknotes/">&#8617; Back</a>
 
 [Week Notes](https://doingweeknotes.com/?ref=upstract.com) are a popular thing these days. I thought I'd throw my hat in the ring and see how it works for me. The link I provided above looks like it's mainly about productivity but I've seen [examples](https://scribbles.page/mbn9ys1t) of more personal notes, which is what I'm aiming for. 
 

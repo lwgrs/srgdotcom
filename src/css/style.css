@@ -1,7 +1,7 @@
 :root {
 	  --font-main: Roboto, sans-serif;
     --font-secondary: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    --font-scale: 1.2em;
+    --font-scale: clamp(1rem, 1.2vw, 1.4rem);
 	  --background-color: #fff;
 	  --heading-color: #e3e9f0;
 	  --text-color: #0d1117;
@@ -12,9 +12,10 @@
 	  --blockquote-color: #c9d1d9;
     --width: 70em;
 }
-html {
-	overflow-y: scroll;
-}
+
+
+
+html,
 body {
     font-family: var(--font-secondary);
     font-size: var(--font-scale);
@@ -24,10 +25,16 @@ body {
     background-color: var(--background-color);
     word-wrap: break-word;
     overflow-wrap: break-word;
-    line-height: 1.5;
+    line-height: 1.3;
     color: var(--text-color);
   }
 
+  html {
+    overflow-y: scroll;
+  }
+  body {
+    max-width: 80em;
+  }
 
   p:last-child {
     margin-bottom: 0;
