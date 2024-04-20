@@ -1,5 +1,6 @@
 ---
 title: Week Notes
+eleventyExcludeFromCollections: true
 eleventyNavigation:
    key: Week Notes
    order: 5

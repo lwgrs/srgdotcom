@@ -2,6 +2,7 @@
 title: srgower dot com 
 layout: base.njk
 templateEngineOverride: njk,md
+eleventyExcludeFromCollections: true
 eleventyNavigation:
   key: Home
   order: 1
