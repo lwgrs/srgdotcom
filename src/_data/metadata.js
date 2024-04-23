@@ -6,7 +6,7 @@ module.exports = {
 	description: "Stephen Gower's personal web page.",
 	author: {
 		name: "Stephen Gower",
-		email: "srgower@gmail.com/",
+		email: "srgower@gmail.com",
 		url: "https://srgower.com"
 	},
 	"feed": {
