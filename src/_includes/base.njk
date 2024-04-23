@@ -4,9 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="color-scheme" content="light dark" />
-    <meta name="description" content="{{ meta_description }}" />
+    <meta name="description" content="{{ meta_description or metadata.description }}" />
     <link rel="canonical" content="{{ canonical_url }}" />
     <meta name="author" content="Stephen Gower" />
+    <meta name="image" content="{{ meta_image or metadata.image}}" />
+    
+    <meta property="og:site_name" content="{{ metadata.title }}" />
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{{ meta_description }}" />
+
+    <meta property="twitter:card" content="summary">
+    <meta property="twitter:title" content="{{ title }}" />
+    <meta property="twitter:description" content="{{ meta_description }}" />
     <title>{{ title }}</title>
     <link rel="stylesheet" href="/css/style.css" />
 </head>
