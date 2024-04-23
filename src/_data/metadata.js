@@ -7,7 +7,7 @@ module.exports = {
 	author: {
 		name: "Stephen Gower",
 		email: "srgower@gmail.com",
-		url: "https://srgower.com"
+		url: "https://srgower.com/"
 	},
 	"feed": {
 		"subtitle": "Weeknotes from Stephen Gower",
