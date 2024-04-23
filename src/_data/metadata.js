@@ -1,6 +1,6 @@
 module.exports = {
 	title: "srgower dot com",
-	url: "https://srgower.com",
+	url: "https://srgower.com/",
 	language: "en",
 	image: "/images/profile-image.jpg",
 	description: "Stephen Gower's personal web page.",
