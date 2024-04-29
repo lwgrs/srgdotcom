@@ -1,7 +1,7 @@
 ---
 title: What Am I Up To Now?
 eleventyNavigation: 
-    key: What Am I Up To Now?
+    key: Now
     order: 6
 ---
 
