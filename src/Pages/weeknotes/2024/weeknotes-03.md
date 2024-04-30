@@ -1,6 +1,6 @@
 ---
 title: Week Notes 03
-date: "2024-04-30"
+date: 2024-04-30 13:00:00Z
 tags: post
 meta_description: Week Notes for April 23-29, 2024.
 ---
