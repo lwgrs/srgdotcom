@@ -1,16 +1,14 @@
 ---
 title: Week Notes 03
-date: 2024-04-30 13:00:00Z
+date: 2024-04-30
 tags: post
 meta_description: Week Notes for April 23-29, 2024.
 ---
 
 # {{ title }}
 
-<p><em>Published on {{ date }}</em></p>
-<p><a href="/weeknotes/">&#8617; Back to list</a></p> 
-
 *Week of April 23-29, 2024*
+[&#8617; Back to list](/weeknotes/) 
 
 #### Personal 
 - Whereas last week I did a lot of tidying up, I kind of undid some of that when trying to set up my Nintendo 64 (see the Media notes below). I need to tidy that up again - a project for the weekend. 
