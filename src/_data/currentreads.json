@@ -7,8 +7,14 @@
     },
     {
         "title": "Star Trek: Deep Space 9 & the U.S.S Defiant Illustrated Handbook",
-        "url": "https://www.penguinrandomhouse.ca/books/652744/star-trek-deep-space-9-and-the-uss-defiant-illustrated-handbook-by-simon-hugo/9781858759517",
+        "url": "https://www.amazon.ca/Star-Trek-Defiant-Illustrated-Handbook/dp/185875951X",
         "cover": "https://cdn.thestorygraph.com/kv3hynekxvz0xpesch4et5rqf5i7",
         "author": "Simon Hugo, ed."
+    },
+    {
+        "title": "Star Trek The Next Generation: The U.S.S. Enterprise NCC-1701-D Illustrated Handbook",
+        "url": "https://www.amazon.ca/Star-Trek-Next-Generation-Illustrated/dp/1858755409",
+        "cover": "https://cdn.thestorygraph.com/b5oboayh0rvth8yg7w3cddic8cr2",
+        "author": "Marcus Riley, Ben Robinson with Rob Garrard (Illustrator)"
     }
 ]
