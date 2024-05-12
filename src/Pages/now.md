@@ -90,9 +90,13 @@ I switch around TV shows a lot more often than movies; but here's what I have in
 
 <h3 id="music">Music</h3>
 
-<!-- (c) Layout created by zaire (https://layouts.spacehey.com/layout?id=25613) -->
+<!-- (c) Layout created by zaire (https://layouts.spacehey.com/layout?id=25613)
 
-<a href="https://www.last.fm/user/sgower"><img src="https://lastfm-recently-played.vercel.app/api?user=sgower&t={{current_timestamp}}" height="auto" width="350px"/></a>
+<a href="https://www.last.fm/user/sgower"><img src="https://lastfm-recently-played.vercel.app/api?user=sgower&t={{current_timestamp}}" height="auto" width="350px"/></a> -->
+
+[Last.FM Profile](https://www.last.fm/user/sgower/listening-report) 
+[Last.FM Listening Reports](https://www.last.fm/user/sgower/listening-report)
+
 <p style="font-size: small;"><a href="#top">Back to top</a></p>
 
 [^1]: Not road traffic - it's this kind: [https://en.m.wikipedia.org/wiki/Traffic_(broadcasting)](https://en.m.wikipedia.org/wiki/Traffic_(broadcasting)). I also [wrote a detailed account of the basics of my job](https://lwgrs.bearblog.dev/radio-traffic/).
