@@ -7,7 +7,7 @@ meta_description: Week Notes for May 14-20, 2024.
 
 # {{ title }}
 
-*Week of May 14-20, 2024*
+*{{ meta_description }}*
 
 [&#8617; Back to list](/weeknotes/) 
 
