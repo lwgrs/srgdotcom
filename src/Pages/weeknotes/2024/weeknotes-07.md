@@ -9,7 +9,7 @@ meta_description: Week Notes for May 21-27, 2024
 
 *{{ meta_description }}*
 
-[↩ Back to list](https://www.notion.so/weeknotes/)
+[↩ Back to list](/weeknotes/)
 
 ### Things I made:
 
