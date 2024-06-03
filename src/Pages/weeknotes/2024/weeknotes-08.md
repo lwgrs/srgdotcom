@@ -17,7 +17,9 @@ meta_description: Week Notes for May 27th - June 2nd 2024
 - [Hodgepodge](https://lwgrs.bearblog.dev/hodgepodge/)
 - [I still don't have my tape deck](https://lwgrs.bearblog.dev/i-still-dont-have-my-tape-deck/)
 - [Review: Sleeman Zero +](https://lwgrs.bearblog.dev/sleeman-zero/)
-- [Junified 2024](https://lwgrs.bearblog.dev/junified-2024/) *This wasn't my idea - inspired by [Robert Birming](https://birming.com/junited-how-who/)*
+- [Junited 2024](https://lwgrs.bearblog.dev/junited-2024/) *This wasn't my idea - inspired by [Robert Birming](https://birming.com/junited-how-who/)*
+
+<em><strong>Edit 12:57 PM EDT</strong>: I mistyped my "Junited" title and URL.</em>
 
 ### Personal
 
