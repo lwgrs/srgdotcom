@@ -1,4 +1,4 @@
---
+---
 title: Week Notes 08
 date: 2024-06-03
 tags: post
