@@ -1,0 +1,416 @@
+/* 
+McLuhan Lite by mgx.me.
+Based on McLuhan WordPress Theme, Copyright 2018 Anders Norén.
+McLuhan is distributed under the terms of the GNU GPL.
+McLuhan Lite is distributed under the terms of the GNU GPL.
+*/
+
+/* Base styles */
+@font-face {
+    font-family: 'Archivo';
+    src: url('//static.mgx.me/fonts/archivo-variable.woff2') format('woff2');
+    font-weight: 300 900;
+    font-display: swap;
+    font-style: normal;
+}
+
+/* Caper #D7E0AC (light) */
+/* Calypso #096680 (dark) */
+
+:root {
+    /* Colors */
+    --text-color: #096680;
+    --bg-color: #D7E0AC;
+    --primary-color: #06c;
+    --border-color: #888;
+    --dark-border: #333;
+    --blockquote-border-color: currentColor;
+    --code-bg-color: rgba(0, 0, 0, 0.1);
+}
+
+body {
+    font-family: 'Archivo', system-ui, sans-serif;
+    line-height: 1.65;
+    font-size: 18px;
+    color: var(--text-color);
+    background-color: var(--bg-color);
+}
+
+body * {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    color: currentColor;
+    text-decoration-color: currentColor;
+    text-decoration-thickness: 0.1ex;
+    text-underline-offset: 0.3ex;
+}
+
+a:hover,
+ul.blog-posts li a:hover,
+a.title:hover {
+    text-decoration-color: #999 !important;
+    text-decoration: underline;
+    text-decoration-thickness: 0.2ex;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    empty-cells: show;
+    font-size: .9em;
+    margin-bottom: 30px;
+    max-width: 100%;
+    overflow: hidden;
+    width: 100%
+}
+
+th,td {
+    line-height: 1.4;
+    margin: 0;
+    overflow: visible;
+    padding: 2.5%;
+    text-align:left;
+    border: 1px solid var(--border-color);
+}
+
+caption {
+    font-size: 13px;
+    font-weight: 700;
+    padding-bottom: 2.5%;
+    text-align: center;
+    text-transform: uppercase
+}
+
+thead {
+    vertical-align: bottom;
+    white-space: nowrap;
+    background: rgba(0,0,4,0.05 )
+}
+
+th {
+    font-weight: 600
+}
+
+blockquote {
+    border-color: var(--blockquote-border-color);
+    border-style: solid;
+    border-width: 0 0 0 2px;
+    margin: 0 0 30px;
+    padding: 0 0 0 20px
+}
+
+blockquote p {
+    font-weight: 500;
+    hanging-punctuation: first
+}
+
+blockquote cite {
+    display: block;
+    font-style: normal;
+    margin: 1em 0 0
+}
+
+blockquote cite:before {
+    content: "— "
+}
+
+.post p:nth-child(2) {
+    margin-bottom: 2.5rem;
+}
+
+.title h1,
+.post main h1,
+.page main h1 {
+    font-weight: 600;
+    letter-spacing: -.45px;
+    line-height: 1.25;
+    margin: 0;
+    -ms-word-break: break-word;
+    word-break: break-word;
+}
+
+.title h1 {
+    font-size: inherit !important;
+}
+
+.post main h1,
+.page main h1 {
+    font-size: 36px;
+}
+
+.highlight,
+.code {
+    padding: 5px 15px;
+    background-color: var(--code-bg-color);
+    border-radius: 3px;
+    overflow-x: auto;
+    line-height: 1.2;
+    font-size: .9rem;
+    margin-bottom: 1rem;
+}
+
+header {
+    background: var(--text-color);
+    color: var(--bg-color);
+}
+
+header a,
+nav a:hover {
+    color: var(--bg-color) !important;
+}
+
+nav p {
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--dark-border);
+    margin-bottom: 5px;
+}
+
+nav a:hover {
+    color: #555;
+}
+
+nav p > * {
+    margin-right: 1rem;
+}
+
+ul.blog-posts {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 4rem;
+}
+
+ul.blog-posts {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 4rem;
+}
+
+ul.blog-posts li {
+    overflow: hidden;
+    padding-bottom: 20px;
+    border-top: 1px solid rgb(162 156 156 / 13%);
+    padding-top: 20px;
+}
+
+ul.blog-posts li a {
+    text-decoration: none;
+    color: var(--dark-border);
+    float: left;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: calc(100% - 110px); 
+}
+
+ul.blog-posts li time {
+    float: right;
+}
+
+time {
+    font-style: normal;
+    color: var(--border-color);
+}
+
+.home h2:before {
+    content: 'About';
+    display: block;
+    opacity: .5;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+/* Media queries */
+@media screen and (max-width: 999px) {
+    body {
+        font-size: 16px;
+        margin: 0;
+    }  
+  
+    header {
+        top: 0;
+        left: 0;
+        padding: 10px 20px 20px;
+    }
+    
+    main {
+        padding: 3rem 20px;
+    }
+    
+    
+    footer {
+        padding: 0 0 20px 20px !important;
+        font-size: small;
+    }
+    
+    .home h2 {
+        font-size: 18px !important;
+        font-weight: 400;
+        line-height: 1.45;
+    }
+    
+    .title h1 {
+        margin-top: 1rem !important;
+        margin-bottom: 10px;
+    }
+    
+    .post main h1,
+    .page main h1 {
+        font-size: 24px;
+    }
+    
+}
+
+@media screen and (min-width: 1000px) {
+    body {
+        position: relative;
+    }
+    
+    
+    header {
+        margin: 0 auto;
+        padding: 80px 50px 144px;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        top: 0;
+        width: 280px;
+        z-index: 99998;
+    }
+  
+    nav a {
+        display: block;
+    }
+    
+    main {
+        padding-left: 380px;
+        padding-top: 72px;
+        padding-bottom: 72px;
+        margin: 0 auto;
+        max-width: 630px;
+    }
+    
+    footer {
+        position: fixed;
+        color: #fff;
+        bottom: 0;
+        z-index: 99999;
+        padding: 80px 40px 80px !important;
+        font-size: small;
+    }
+    
+    .home h2 {
+        font-size: 24px !important;
+        font-weight: 400;
+        line-height: 1.45;
+    }
+    
+    .title h1 {
+        margin-bottom: 3rem;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: var(--text-color);
+        color: var(--bg-color);
+    }
+    .highlight, .code {
+        background-color: rgb(219 219 219 / 10%) !important;
+    }
+  
+    @media screen and (min-width: 1000px) {
+        header {
+            border-right: 1px solid var(--dark-border);
+        }
+    }  
+      
+    @media screen and (max-width: 999px) {
+        header {
+            border-bottom: 1px solid var(--dark-border);
+        }        
+    }   
+}
+.profile { 
+  border-radius: 25px;
+  width: 19%;
+  height: 19%;
+  padding: 5px;
+}
+.icon {
+  display: inline-block;
+  margin-left: 0.2em;
+  width: 1em;
+  height: 1em;
+}
+.podcast-logo {
+  border-radius: 15px;
+  width: 7%;
+  height: 7%;
+  vertical-align: middle;
+}
+img[src*="#podcast-logo"] {
+	border-radius: 15px;
+	width: 7%; 
+	height: 7%; 
+	vertical-align: middle;
+}
+.about {
+  display: inline-block;
+}
+.indent {
+  padding-left: 10pt;
+  padding-right: 10pt;
+}
+
+/* Now Page */
+
+.now-page {
+  font-family: monospace;
+  font-size: smaller;
+}
+
+div.scroll-container {
+  background-color: #333;
+  overflow: auto;
+  white-space: nowrap;
+  padding: 5px;
+  width: 250px;
+  height: auto;
+}
+
+/* Test book class code to go with scroll container */
+
+.book {
+  width: auto;
+  height: 90px;
+  padding: 0px;
+}
+
+/* Original book class code 
+.book {
+  width: 10%;
+  height: 10%;
+  padding: 0px;
+}
+*/
+
+.booknav {
+  list-style: none;
+  display: flex-box;
+  justify-content: space-around;
+  padding: 0;
+  margin-left: 30px;
+  font-size: 0;
+}
+
+.book-item {
+  display: inline;
+  vertical-align: middle;
+}
