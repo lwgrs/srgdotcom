@@ -17,4 +17,4 @@ A collection of weekly notes summarizing what I've been up to during any given w
 </ul>
 
 
-<p>See <a href="/weeknotes/archive/">the archive</a> for more notes.</p>
+<p>See <a href="/archive/">the archive</a> for more notes.</p>
