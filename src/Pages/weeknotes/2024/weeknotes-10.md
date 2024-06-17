@@ -44,5 +44,5 @@ meta_description: Week Notes for June 10-16
 - See the "Nerdy Blog Stuff" post I linked to above. Basically I changed up my blog formatting and wrote about it. 
 - Updated the layout of `srgower.com`; based it on MGX's McLuhan Lite theme. Links will be in [colophon](/colophon/).
 
-[^1]: According to my brother, Lisa Loeb liked our podcast link announcement on Twitter: ![A screenshot of a notification showing Lisa Loeb liking a post from JaysFrom Home](https://i.ibb.co/JRYjmZM/Untitled.jpg)
+[^1]: According to my brother, Lisa Loeb liked our podcast link announcement on Twitter: [A screenshot of a notification showing Lisa Loeb liking a post from JaysFrom Home](https://i.ibb.co/JRYjmZM/Untitled.jpg)
 [^2]: Slug line is Average / On Base Percentage / Slugging Percentage 
