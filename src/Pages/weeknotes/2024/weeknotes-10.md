@@ -1,6 +1,6 @@
 ---
 title: Week Notes ##
-date: 2024-MM-DD
+date: 2024-06-17
 tags: post
 meta_description: Week Notes for June 10-16
 ---
