@@ -1,5 +1,12 @@
 [
   {
+      "title": "Making It So", 
+      "url": "https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738", 
+      "cover": "https://cdn.thestorygraph.com/jx2kcbwulth959nnz30rxrvwst0a",
+      "author": "Patrick Stewart", 
+      "stars": "&#11088&#11088&#11088&#11088&#11088"
+    },
+  {
       "title": "Stolen Focus: Why You Can't Pay Attention—and How to Think Deeply Again",
       "url": "https://stolenfocusbook.com/",
       "cover": "https://cdn.thestorygraph.com/i8a6nw02lipu8criy7owxuw9zlc7",
@@ -26,12 +33,5 @@
     "cover": "https://images4.penguinrandomhouse.com/cover/9781302949099",
     "author": "Stan Lee, Marvel Various (Illustrator), Roy Thomas (Writer)", 
     "stars": "&#11088"
-  },
-  {
-    "title": "Spider-Man: Life Story",
-    "url": "https://everythingcomics.ca/products/jan231023",
-    "cover": "https://cdn.thestorygraph.com/004pc9u6hemfdzvv4nec4il2gxfg",
-    "author": "Chip Zdarsky and Mark Bagley (Illustrator)",
-    "stars": "&#11088&#11088&#11088&#11088"
   }
 ]

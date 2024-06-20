@@ -1,11 +1,5 @@
 [
     {
-      "title": "Making It So", 
-      "url": "https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738", 
-      "cover": "https://cdn.thestorygraph.com/jx2kcbwulth959nnz30rxrvwst0a",
-      "author": "Patrick Stewart"
-    },
-    {
         "title": "Star Trek: Deep Space 9 & the U.S.S Defiant Illustrated Handbook",
         "url": "https://www.amazon.ca/Star-Trek-Defiant-Illustrated-Handbook/dp/185875951X",
         "cover": "https://cdn.thestorygraph.com/kv3hynekxvz0xpesch4et5rqf5i7",
@@ -16,5 +10,11 @@
         "url": "https://www.amazon.ca/Star-Trek-Next-Generation-Illustrated/dp/1858755409",
         "cover": "https://cdn.thestorygraph.com/b5oboayh0rvth8yg7w3cddic8cr2",
         "author": "Marcus Riley, Ben Robinson with Rob Garrard (Illustrator)"
+    }, 
+    { 
+        "title": "Moon of the Turning Leaves", 
+        "url": "https://www.penguinrandomhouse.ca/books/665341/moon-of-the-turning-leaves-by-waubgeshig-rice/9780735281585", 
+        "cover": "https://cdn.thestorygraph.com/6x5dg0f0syy85tb99xb607s3si5l", 
+        "author": "Waubgeshig Rice"
     }
 ]
