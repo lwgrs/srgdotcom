@@ -25,7 +25,8 @@ meta_description: Week Notes for June 17-23
   <p><span class="h-card"><a href="https://ottawa.place/@srgower" class="u-url mention" rel="nofollow noopener noreferrer" target="_blank">@<span>srgower</span></a></span> enjoying your Week Notes! Great idea and you do it well.</p>
     <p style="font-size: small;"><em> — Melissa Techman (@mtechman@mastodon.ie) <a href="https://mastodon.ie/@mtechman/112633150880804101"><time datetime="2024-06-17T17:31:30.000Z">2024-06-17, 1:31:30 p.m.</time></a></em></p>
 </blockquote>
-Thanks Melissa :) :) 
+Thanks Melissa :) :)  
+
 - I missed some days in my daily goals (for food logging mostly, but I think one night for brushing my teeth). There are various reasons but the biggest is probably because I got sick (see the healthy living section). 
 
 ### Healthy Living
