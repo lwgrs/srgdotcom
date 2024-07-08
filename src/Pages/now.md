@@ -89,7 +89,7 @@ I switch around TV shows a lot more often than movies; but here's what I have in
 
 <a href="https://www.last.fm/user/sgower"><img src="https://lastfm-recently-played.vercel.app/api?user=sgower&t={{current_timestamp}}" height="auto" width="350px"/></a> -->
 
-[Last.FM Profile](https://www.last.fm/user/sgower/listening-report) 
+[Last.FM Profile](https://www.last.fm/user/sgower) 
 [Last.FM Listening Reports](https://www.last.fm/user/sgower/listening-report)
 
 <p style="font-size: small;"><a href="#top">Back to top</a></p>
