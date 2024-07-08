@@ -414,3 +414,6 @@ div.scroll-container {
   display: inline;
   vertical-align: middle;
 }
+a[href^="http"]:where(:not([href*="srgower.com"]))::after {
+    content: "↗"
+}
