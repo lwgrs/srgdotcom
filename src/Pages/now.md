@@ -5,7 +5,7 @@ eleventyNavigation:
     order: 6
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;"> June 2024</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;"> July 2024</strong>.</p>
 <div id="top"></div>
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about).*
@@ -71,7 +71,7 @@ I keep track of movies watched on [Letterboxd](https://letterboxd.com/stephen_g/
 ##### TV Shows 
 
 I switch around TV shows a lot more often than movies; but here's what I have in rotation at the moment: 
-* Chicago Med
+* The Acolyte *(Disney+)*
 * Flight of the Conchords *(Re-watch)*
 * X-Men (1992-1997) 
 

@@ -1,4 +1,14 @@
 [
+    { 
+        "title": "The Dark Knight Rises <em>2008</em>",
+        "rating": "&#11088&#11088&#11088&#11088", 
+        "review": "https://letterboxd.com/stephen_g/film/the-dark-knight/"
+    },
+    {
+        "title": "The Dark Knight <em>(2012)</em>",
+        "rating": "&#11088&#11088&#11088 &frac12;",
+        "review": "https://letterboxd.com/stephen_g/film/the-dark-knight-rises/"
+    },
     {
         "title": "Dune Part Two <em>(2024)</em>",
         "rating": "&#11088&#11088&#11088 &frac12;",
@@ -13,15 +23,5 @@
         "title": "Eternal Sunshine of the Spotless Mind <em>(2004)</em>",
         "rating": "&#11088&#11088&#11088&#11088&#11088",
         "review": "https://letterboxd.com/stephen_g/film/eternal-sunshine-of-the-spotless-mind/"
-    },
-    {
-        "title": "Ghostbusters Afterlife <em>(2021)</em>",
-        "rating": "&#11088&#11088&#11088",
-        "review": "https://letterboxd.com/stephen_g/film/ghostbusters-afterlife/"
-    },
-    {
-        "title": "Collateral <em>(2004)</em>",
-        "rating": "&#11088&#11088&#11088&#11088",
-        "review": "https://letterboxd.com/stephen_g/film/collateral/"
     }
 ]
