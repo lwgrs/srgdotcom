@@ -1,4 +1,14 @@
 [
+    {
+        "title": "Kill Bill: Vol 1",
+        "rating": "&#11088&#11088&#11088&#11088 &frac12;",
+        "review": "https://letterboxd.com/stephen_g/film/kill-bill-vol-1/"
+    },
+    {
+        "title": "Once Upon a Time...in Hollywood",
+        "rating": "&#11088&#11088&#11088 &frac12;",
+        "review": "https://letterboxd.com/stephen_g/film/once-upon-a-time-in-hollywood/"
+    },
     { 
         "title": "The Dark Knight Rises <em>(2012)</em>",
         "rating": "&#11088&#11088&#11088&#11088", 
@@ -13,15 +23,5 @@
         "title": "Dune Part Two <em>(2024)</em>",
         "rating": "&#11088&#11088&#11088 &frac12;",
         "review": "https://letterboxd.com/stephen_g/film/dune-part-two/"
-    },
-    {
-        "title": "Poor Things <em>(2023)</em>",
-        "rating": "&#11088&#11088&#11088",
-        "review": "https://letterboxd.com/stephen_g/film/poor-things-2023/"
-    },
-    {
-        "title": "Eternal Sunshine of the Spotless Mind <em>(2004)</em>",
-        "rating": "&#11088&#11088&#11088&#11088&#11088",
-        "review": "https://letterboxd.com/stephen_g/film/eternal-sunshine-of-the-spotless-mind/"
     }
 ]
