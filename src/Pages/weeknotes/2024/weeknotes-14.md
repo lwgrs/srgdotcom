@@ -45,7 +45,7 @@ meta_description: Week Notes for July 8-14, 2024
   - I liked the song "Beautiful Creature". 
 - Enjoying https://soma.fm - specifically the 80s Underground channel. As a result I also globbed onto SiriusXM's 1st Wave channel. 
 - Spent the weekend listening to tapes: *[Foo Fighters](https://www.discogs.com/master/62100-Foo-Fighters-Foo-Fighters)*, Taylor Swift's *[Midnights](https://www.discogs.com/master/2831825-Taylor-Swift-Midnights)*. And CDs: The Sheep Dogs *[Learn & Burn](https://www.discogs.com/release/3661054-The-Sheepdogs-Learn-Burn)*, Jet *[Get Born](https://www.discogs.com/release/984322-Jet-Get-Born)*, Kaiser Chiefs *[Employment](https://www.discogs.com/release/6453942-Kaiser-Chiefs-Employment)*, Tokyo Police Club *[Elephant Shell](https://www.discogs.com/release/6453942-Kaiser-Chiefs-Employment)*, Stabilo *[Flawed Design](https://www.discogs.com/release/6287099-Stabilo-Happiness-Disaster)* 
-- Watched a couple of movies on the weekend too! I wrote about *[Once Upon a Time...in Hollywood](https://letterboxd.com/stephen_g/film/once-upon-a-time-in-hollywood/)* and a re-watch of *[Kill Bill: Vol 1](https://letterboxd.com/stephen_g/film/kill-bill-vol-1/) 
+- Watched a couple of movies on the weekend too! I wrote about *[Once Upon a Time...in Hollywood](https://letterboxd.com/stephen_g/film/once-upon-a-time-in-hollywood/)* and a re-watch of *[Kill Bill: Vol 1](https://letterboxd.com/stephen_g/film/kill-bill-vol-1/)* 
 
 [^1]: Slug line is Average / On Base Percentage / Slugging Percentage 
 
