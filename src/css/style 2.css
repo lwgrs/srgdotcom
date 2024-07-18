@@ -415,5 +415,5 @@ div.scroll-container {
   vertical-align: middle;
 }
 a[href^="http"]:where(:not([href*="srgower.com"]))::after {
-    content: "↗"
+    content: "↗"; font-size: small;
 }
