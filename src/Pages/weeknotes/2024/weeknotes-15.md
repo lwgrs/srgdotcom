@@ -42,6 +42,7 @@ meta_description: Week Notes for July 15-21, 2024
 ### Media
 
 - We finished *The Acolyte* and I was a little disappointed. I feel that it didn't deliver on what was promised, except when it comes to fight sequences. I think this show gave us the best choreographed lightsaber battles in Star Wars, ever. 
-- Finally watched *American Fiction*. I really enjoyed it, but it wasn't exactly what I was expecting! And the ending - well I'll just say I'm not entirely sure about it right now. Either way, while being a definite satire it was also a great family drama. 
+- Finally watched *American Fiction*. I really enjoyed it, but it wasn't exactly what I was expecting! And the ending - well I'll just say I'm not entirely sure about it right now. Either way, while being a definite satire it was also a great family drama.
+- I recorded an hour-long radio special from [CHEZ 106](https://www.chez106.com) - "60 Minutes of Chris Cornell" on what would have been his 60th (Saturday July 20). Great group of songs, I enjoyed it. Going to tape over the top of the tape to prevent re-recording. Maybe some day I'll print a custom J-Card.
 
 [^1]: Slug line is Average / On Base Percentage / Slugging Percentage 
