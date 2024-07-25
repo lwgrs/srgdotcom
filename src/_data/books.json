@@ -1,5 +1,12 @@
 [
   {
+        "title": "The Plot",
+        "url": "https://us.macmillan.com/books/9781250790767/theplot",
+        "cover": "https://cdn.thestorygraph.com/vk6jyokr0yfwpcguu2qb63hyvzjh",
+        "author": "Jean Hanff Korelitz",
+        "stars": "&#11088&#11088&#11088"
+    },
+    {
       "title": "Making It So", 
       "url": "https://www.simonandschuster.com/books/Making-It-So/Patrick-Stewart/9781982167738", 
       "cover": "https://cdn.thestorygraph.com/jx2kcbwulth959nnz30rxrvwst0a",
@@ -26,12 +33,5 @@
       "cover": "https://cdn.thestorygraph.com/e0hs1n70e1ekkfrecmrctc729cdn",
       "author": "Brett Popplewell",
       "stars": "&#11088&#11088&#11088&#11088"
-    },
-  {
-    "title": "Mighty Marvel Masterworks: The Silver Surfer Vol. 1 - The Sentinel Of The Spaceways", 
-    "url": "https://www.penguinrandomhouse.com/books/730800/mighty-marvel-masterworks-the-silver-surfer-vol-1---the-sentinel-of-the-spaceways-by-stan-lee/", 
-    "cover": "https://images4.penguinrandomhouse.com/cover/9781302949099",
-    "author": "Stan Lee, Marvel Various (Illustrator), Roy Thomas (Writer)", 
-    "stars": "&#11088"
-  }
+    }
 ]
