@@ -20,7 +20,7 @@ meta_description: Week Notes for July 29 - August 4, 2024
 ### Personal
 
 - I had someone reach out to me by email after they read my Wednesday thoughts :) It was nice to hear from someone I haven't talked to before. They asked for some more posts about weight loss - I'm still hesitant about that but will probably write something later this month focusing more on the tools and methods I'm using rather than raw data. 
-- Spent the weekend up north qith my wife's family. We come up here often, but there's usually a different experience every time. The highlight this time was fishing. We came home with 9 fish! And a lot of photos! I'll be posting them soon.
+- Spent the weekend up north with my wife's family. We come up here often, but there's usually a different experience every time. The highlight this time was fishing. We came home with 9 fish! And a lot of photos! I'll be posting them soon.
 - I [decided I would stay off social media this weekend](https://ottawa.place/@srgower/112894172405904636), on top of my usual No Socials Sunday. I did a great job, in my opinion. I'm writing this on Monday and I still haven't been online.
 
 ### Softball &#129358;
@@ -39,7 +39,7 @@ meta_description: Week Notes for July 29 - August 4, 2024
 
 ### Media
 
-- I was recently turned on to the podcast Going Rogue([Apple](https://podcasts.apple.com/us/podcast/going-rogue/id1636196453), [Spotify](https://open.spotify.com/show/2ktZYfjxF5PwG44UC0HPvK)) hosted by Tansy Gardam. I found it after reading the [most recent newsletter from Decoding Everything](https://www.decodingeverything.com/p/what-went-wrong-with-zack-snyders-rebel-moon). The first series covers the production of the movie *Rogue One* but goes on to cover other movies with long and often troubled productions. 
+- I was recently turned on to the podcast Going Rogue ([Apple](https://podcasts.apple.com/us/podcast/going-rogue/id1636196453), [Spotify](https://open.spotify.com/show/2ktZYfjxF5PwG44UC0HPvK)) hosted by Tansy Gardam. I found it after reading the [most recent newsletter from Decoding Everything](https://www.decodingeverything.com/p/what-went-wrong-with-zack-snyders-rebel-moon). The first series covers the production of the movie *Rogue One* but goes on to cover other movies with long and often troubled productions. 
 - I started watching the 90s X-Men season 3 "Phoenix Saga", and only 2 episodes in. I remarked that it was amusing how casually the X-Men were able to hijack a shuttle and just fly into space like it's nothing. Additionally - does Beast wear a "Howard the Duck" t-shirt in the second episode?
 
 [^1]: Slug line is Average / On Base Percentage / Slugging Percentage 
