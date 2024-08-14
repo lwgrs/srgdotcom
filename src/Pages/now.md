@@ -6,7 +6,6 @@ eleventyNavigation:
 ---
 
 <p class="now-page">Page last updated: <strong style="color:#d90202;"> August 2024</strong>.</p>
-<div id="top"></div>
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about).*
 
