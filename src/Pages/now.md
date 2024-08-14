@@ -3,6 +3,7 @@ title: What Am I Up To Now?
 eleventyNavigation: 
     key: Now
     order: 6
+tags: post
 ---
 
 <p class="now-page">Page last updated: <strong style="color:#d90202;"> August 2024</strong>.</p>
