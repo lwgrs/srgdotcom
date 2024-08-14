@@ -32,9 +32,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addWatchTarget("./src/files/");
   eleventyConfig.addPassthroughCopy("./src/Pages/weeknotes/");
   eleventyConfig.addWatchTarget("./src/Pages/weeknotes/");
-
-  // Trying to solve an error with Netlify deploy - saw this as a possible solution
-  eleventyConfig.setWatchJavaScriptDependencies(false);
   
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
