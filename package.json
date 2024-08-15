@@ -16,6 +16,7 @@
     "@11ty/eleventy-fetch": "^4.0.0",
     "date-fns": "^3.6.0",
     "eleventy-plugin-markdown-shortcode": "^0.1.2",
+    "globals": "^15.8.0",
     "luxon": "^3.4.4",
     "markdown-it": "^14.0.0",
     "markdown-it-attrs": "^4.1.6",
