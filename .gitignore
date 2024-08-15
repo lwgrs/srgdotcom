@@ -3,3 +3,5 @@ public/
 blog/
 boilerplate.html
 old_files/
+# Local Netlify folder
+.netlify
