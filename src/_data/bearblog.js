@@ -1,4 +1,4 @@
-/* const Parser = require('rss-parser');
+const Parser = require('rss-parser');
 let parser = new Parser(); 
 
 const date_fns = require('date-fns');
@@ -13,4 +13,3 @@ module.exports = async function() {
 
   return feed.items;
 };
-*/
