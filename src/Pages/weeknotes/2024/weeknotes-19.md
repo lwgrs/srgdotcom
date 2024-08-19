@@ -42,10 +42,6 @@ meta_description: Week Notes for August 12-18, 2024
 - &#10032;&#10032;&#10032;&#10032; None of us had a good game - a lot of pop-ups and weak ground-outs. But I made some great catches in the outfield in the first inning! That was fun. 
 - Season stats: GP: 37 | Slug Line[^1]: .648/.669/.904 | 6 Home Runs 
 
-### Healthy Living
-
-- 
-
 ### Links 
 
 Just some things I've read online that interested me and I didn't get around to writing about them. 
