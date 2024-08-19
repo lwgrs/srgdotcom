@@ -7,6 +7,8 @@ meta_description: Week Notes for August 12-18, 2024
 
 # {{ title }}
 
+<img src="/images/WeekNotes v1.jpg" width="30%" height="30%" alt="Week Notes" />
+
 *{{ meta_description }}*
 
 [↩ Back to list](/weeknotes/)
