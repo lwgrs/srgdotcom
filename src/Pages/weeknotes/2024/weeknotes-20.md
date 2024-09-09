@@ -3,10 +3,10 @@ title: Week Notes 20
 date: 2024-08-26
 tags: post
 meta_description: Week Notes for August 19-25, 2024 
-meta_image: https://srgower.com/images/WeekNotes v2.jpg 
+meta_image: https://srgower.com/images/WeekNotes-v2.jpg 
 ---
 
-<img src="/images/WeekNotes v2.jpg" width="30%" height="30%" alt="Week Notes" />
+<img src="/images/WeekNotes-v2.jpg" width="30%" height="30%" alt="Week Notes" />
 
 # {{ title }}
 
