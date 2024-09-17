@@ -6,7 +6,7 @@ meta_description: Week Notes for September 9-15 2024.
 meta_image: https://srgower.com/images/WeekNotes-v4.jpg
 ---
 
-<img src="/images/WeekNotes v3.jpg" width="20%" height="20%" alt="Week Notes" />
+<img src="/images/WeekNotes-v4.jpg" width="20%" height="20%" alt="Week Notes" />
 
 # {{ title }}
 
