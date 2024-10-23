@@ -17,7 +17,8 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 * This website 
 * Several [podcasts](/podcasts/)
 * [An Almost Anonymous Blog](https://lwgrs.bearblog.dev)
-* [Random Colour Contrasts](https://contrasts.srgower.com/)
+* [Random Colour Contrasts](https://contrasts.srgower.com/) 
+* [Photo Blog](https://photos.srgower.com) - read the [Changelog](https://photos.srgower.com/changelog/)
 
 
 ### Things I'm Into At the Moment 
