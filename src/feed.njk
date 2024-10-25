@@ -22,7 +22,7 @@ eleventyExcludeFromCollections: true
     <link href="{{ absolutePostURL }}"/>
     <updated>{{ post.date | rssDate }}</updated> 
     <id>{{ absolutePostURL }}</id>
-    <summary>{{ post.meta_description }}</summary>
+    <summary>{{ post.data.meta_description }}</summary>
     <content type="html"><![CDATA[{{ post.templateContent | safe }}]]> </content> 
   </entry>
   {%- endfor %} 
