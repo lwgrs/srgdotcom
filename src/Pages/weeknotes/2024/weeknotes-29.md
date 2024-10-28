@@ -16,11 +16,11 @@ meta_image: https://srgower.com/images/WeekNotes-v5.jpg
 
 ### Things I made:
 
-- [Forest as captured by an iPod Touch](https://lwgrs.bearblog.dev/forest-ipod/) 
 - [Tuesday Thoughts 04](https://lwgrs.bearblog.dev/tuesday-04/) 
 - [2024 Softball Season Wrap](https://lwgrs.bearblog.dev/2024-softball/) 
 - [Something to get excited about](https://lwgrs.bearblog.dev/excited/)
 - [Introducing: Photos by Stephen Gower](https://lwgrs.bearblog.dev/introducing-photos-by-stephen-gower/)
+- [Forest as captured by an iPod Touch](https://lwgrs.bearblog.dev/forest-ipod/) 
 
 ### Personal
 
