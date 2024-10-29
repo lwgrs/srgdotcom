@@ -2,7 +2,7 @@
 title: Week Notes
 eleventyNavigation:
    key: Week Notes
-   order: 5
+   order: 6
 ---
 <h2>Week Notes</h2>
 A collection of weekly notes summarizing what I've been up to during any given week. Each note includes things I've created during the previous week.

@@ -417,3 +417,22 @@ div.scroll-container {
 a[href^="http"]:where(:not([href*="srgower.com"]))::after {
     content: "↗"; font-size: small;
 }
+
+/* Styles specifically for /photography/ */ 
+.photosbysg ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+.photosbysg li {
+    display: flex;
+    align-items: center;
+    padding: 0.3rem;
+    text-align: top;
+    border-bottom: 1px dotted var(--border);
+   }
+.photosbysg img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    display: inline-block;
+  }

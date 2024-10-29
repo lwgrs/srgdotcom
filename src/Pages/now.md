@@ -1,11 +1,11 @@
 ---
 title: What Am I Up To Now?
 eleventyNavigation: 
-    key: Now
-    order: 6
+  key: Now
+  order: 7
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;"> August 2024</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;"> October 2024</strong>.</p>
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about).*
 
