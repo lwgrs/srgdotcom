@@ -6,14 +6,14 @@ const path = require('path');
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const { DateTime } = require("luxon");
 
-
 module.exports = function (eleventyConfig) {
   let options = {
     html: true, // Enable HTML tags in source
     breaks: true,  // Convert '\n' in paragraphs into <br>
     linkify: true // Autoconvert URL-like text to links
+    
   };
-  
+ 
   let markdownLib =  markdownIt(options).use(markdownItFootnote);
 
   eleventyConfig.setLibrary("md", markdownLib);

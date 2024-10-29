@@ -4,7 +4,7 @@ let parser = new Parser();
 const date_fns = require('date-fns');
 
 const feeds = [
-  'https://lwgrs.bearblog.dev/feed/?type=rss'
+  'https://photos.srgower.com/feed.xml'
 ]
 
 function normalizeItem(i, feed) {
