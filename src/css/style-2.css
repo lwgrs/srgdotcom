@@ -436,3 +436,44 @@ a[href^="http"]:where(:not([href*="srgower.com"]))::after {
     object-fit: cover;
     display: inline-block;
   }
+
+  /* Attempting to create a "name tag" appearance like on Discord, Teams, etc. */ 
+  .nametag {
+    background-color: var(--text-color);
+    color: var(--bg-color); 
+    text-decoration: none; 
+    padding: 2px 5px;
+    border-radius: 3px;
+    font-family: monospace;
+  }
+  .nametag:hover {
+    background-color: var(--text-color);
+    color: #fff;
+    text-decoration: none;
+    padding: 2px 5px;
+    border-radius: 3px;
+    cursor: pointer;
+    font-family: monospace;
+  }
+
+  /* Dark mode for the name tag */
+  @media (prefers-color-scheme: dark) {
+    .nametag {
+        background-color: var(--bg-color);
+        color: var(--text-color); 
+        text-decoration: none; 
+        padding: 2px 5px;
+        border-radius: 3px;
+        font-family: monospace;
+      }
+      .nametag:hover {
+        background-color: var(--bg-color);
+        color: #fff;
+        text-decoration: none;
+        padding: 2px 5px;
+        border-radius: 3px;
+        cursor: pointer;
+        font-family: monospace;
+      }
+    
+  }
