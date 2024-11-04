@@ -16,7 +16,7 @@ Recent posts:
 <div class="photosbysg">
 <ul>
 {% for article in photosrss %}
-<li><a href="{{ article.link }}">{{ article.title }}</a></li>
+<li><a href="{{ article.link }}">{{ article.title }}</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em style="font-size:0.75em;font-weight:bold;">(published {{ article.niceDate }})</em></li>
 {% endfor %}
 </ul>
 </li>
