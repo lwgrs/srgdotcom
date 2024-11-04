@@ -9,6 +9,6 @@ These are the 10 most recent entries from my blog, [An Almost Anonymous Blog](ht
 
 <ul>
 {% for article in bearblog %}
-<li><a href="{{ article.link }}">{{ article.title }}</a> <i style="font-size:smaller; color:#A42A04;">(published {{ article.niceDate }})</i></li>
+<li><a href="{{ article.link }}">{{ article.title }}</a> <em style="font-size:0.75em;font-weight:bold;">(published {{ article.niceDate }})</em></li>
 {% endfor %}
 </ul>

@@ -26,6 +26,7 @@ McLuhan Lite is distributed under the terms of the GNU GPL.
     --dark-border: #333;
     --blockquote-border-color: currentColor;
     --code-bg-color: rgba(0, 0, 0, 0.1);
+    --accent-color: #000;
 }
 
 body {
@@ -320,6 +321,7 @@ time {
     body {
         background: var(--text-color);
         color: var(--bg-color);
+        accent-color: #fff;
     }
     .highlight, .code {
         background-color: rgb(219 219 219 / 10%) !important;
