@@ -2,6 +2,7 @@
 title: Week Notes 09
 date: 2024-06-10
 tags: post
+permalink: /{{ page.fileSlug }}/
 meta_description: Week Notes for June 3-9
 ---
 

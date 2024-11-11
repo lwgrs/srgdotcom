@@ -2,6 +2,7 @@
 title: Week Notes 20
 date: 2024-08-26
 tags: post
+permalink: /{{ page.fileSlug }}/
 meta_description: Week Notes for August 19-25, 2024 
 meta_image: https://srgower.com/images/WeekNotes-v2.jpg 
 ---

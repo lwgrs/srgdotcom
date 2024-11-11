@@ -2,6 +2,7 @@
 title: Week Notes 30
 date: 2024-11-04
 tags: post
+permalink: /weeknotes-30/
 meta_description: Week Notes for October 28 - November 3, 2024
 meta_image: https://srgower.com/images/WeekNotes-v1.jpg
 ---

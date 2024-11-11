@@ -2,6 +2,7 @@
 title: Week Notes 21
 date: 2024-09-02
 tags: post
+permalink: /weeknotes-21/
 meta_description: Week Notes for August 26 - September 1, 2024
 meta_image: https://dynamic-og-image-generator.vercel.app/api/generate?title=Week%20Notes%2021&author=Stephen%20Gower&avatar=https://srgower.com/images/profile-image.jpg&websiteUrl=https%3A%2F%2Fsrgower.com&theme=github
 ---

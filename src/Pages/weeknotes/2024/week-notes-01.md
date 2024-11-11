@@ -2,6 +2,7 @@
 title: Week Notes 01
 date: "2024-04-16"
 tags: post
+permalink: /{{ page.fileSlug }}/
 meta_description: Week Notes for April 8-16, 2024.
 canonical_url: https://lwgrs.bearblog.dev/week-notes-01/
 ---

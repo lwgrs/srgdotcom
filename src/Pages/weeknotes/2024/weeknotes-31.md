@@ -2,6 +2,7 @@
 title: Week Notes 31
 date: 2024-11-11
 tags: post
+permalink: /weeknotes-31/
 meta_description: Week Notes for November 4 - November 10, 2024
 meta_image: https://srgower.com/images/WeekNotes-v2.jpg
 ---

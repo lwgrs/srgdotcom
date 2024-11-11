@@ -2,6 +2,7 @@
 title: Week Notes 29
 date: 2024-10-28
 tags: post
+permalink: /weeknotes-29/
 meta_description: Week Notes for October 21 - 27, 2024
 meta_image: https://srgower.com/images/WeekNotes-v5.jpg
 ---

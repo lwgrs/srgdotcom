@@ -2,6 +2,7 @@
 title: Week Notes 17
 date: 2024-08-08
 tags: post
+permalink: /{{ page.fileSlug }}/
 meta_description: Week Notes for July 29 - August 4, 2024
 ---
 

@@ -2,6 +2,7 @@
 title: Week Notes 03
 date: 2024-04-30
 tags: post
+permalink: /{{ page.fileSlug }}/
 meta_description: Week Notes for April 23-29, 2024.
 ---
 

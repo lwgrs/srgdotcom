@@ -2,6 +2,7 @@
 title: Week Notes 22
 date: 2024-09-09
 tags: post
+permalink: /weeknotes-22/
 meta_description: Week Notes for September 2-8, 2024
 meta_image: https://srgower.com/images/WeekNotes-v3.jpg
 ---
