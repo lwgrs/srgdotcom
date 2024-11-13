@@ -455,6 +455,9 @@ a[href^="http"]:where(:not([href*="srgower.com"]))::after {
     cursor: pointer;
     font-family: monospace;
   }
+  .nametag::before {
+    content: "@";
+}
 
   /* Dark mode for the name tag */
   @media (prefers-color-scheme: dark) {

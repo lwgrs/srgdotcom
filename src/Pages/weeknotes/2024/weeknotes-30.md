@@ -44,7 +44,7 @@ I'm trying a slightly different format for my weeknotes. Kind of related to one 
 
 ### Links
 
-This weeks links come exclusively from <a href="https://notes.jeddacp.com/" class="nametag">@Jedda</a>. She has a <a href="https://notes.jeddacp.com/postroll/">post roll</a> where she posts links to individual articles. Often these are articles I don't see on my own - so I'm glad that she does so. Every week in her weeknotes she "rolls off" a set of links so that's how I end up finding them. 
+This weeks links come exclusively from <a href="https://notes.jeddacp.com/" class="nametag">Jedda</a>. She has a <a href="https://notes.jeddacp.com/postroll/">post roll</a> where she posts links to individual articles. Often these are articles I don't see on my own - so I'm glad that she does so. Every week in her weeknotes she "rolls off" a set of links so that's how I end up finding them. 
 
 - [What is it about people who write Weeknotes? - Twelvety](https://www.twelvety.net/2024/10/what-is-it-about-people-who-write-weeknotes) 
 - [Hunting Cryptids with Frame 352 (and a cheap thermal print camera) | quailblog](https://blog.curiousquail.com/hunting-cryptids-with-frame-352-and-a-cheap-thermal-print-camera/)
