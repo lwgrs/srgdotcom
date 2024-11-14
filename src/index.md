@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 1
 ---
 <p>
-<img class="profile" src="/images/profile-image.jpg" alt="A profile photo of Stephen Gower" style="float: left; margin-right: 10px;">
+<img class="profile" src="/images/profile-updated.jpg" alt="A profile photo of Stephen Gower" style="float: left; margin-right: 10px;">
 Hi, my name is Stephen Gower. I am a writer and podcaster. I'm a fan of books, podcasts, hockey, baseball, curling & movies. I currently work as the Regional Traffic Manager for Rogers Radio in Ottawa. I was also diagnosed with epilepsy at the age of 35. Sometimes I talk about that.
 </p>
 
