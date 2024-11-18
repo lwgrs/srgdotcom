@@ -1,5 +1,5 @@
 {
     "layout": "post",
-    "permalink": "/{{ date | justYear }}/{{ page.fileSlug }}/",
+    "permalink": "/weeknotes/{{ date | justYear }}/{{ page.fileSlug }}/",
     "tags": "post"
 }
