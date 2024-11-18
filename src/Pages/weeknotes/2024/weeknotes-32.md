@@ -26,7 +26,7 @@ meta_image: https://srgower.com/images/WeekNotes-v3.jpg
 
 ### Health Notes 
 
-- My logging streak to date: 
+- My [logging streak](https://lwgrs.bearblog.dev/calorie-counting/) to date: 10
 - Somehow I missed that I passed 5 years since my first seizure (Nov 9 2019). On a related note, I discovered this thread on reddit and I spent some time reading over it. https://www.reddit.com/r/Epilepsy/comments/1grfz2a/simple_question_what_do_you_dislike_the_most/ 
 - Got our COVID & flu shots; this year I didn't get as much pain in the arm as in previous years. Other than a nice long nap Saturday afternoon I didn't really feel any side effects. 
 
