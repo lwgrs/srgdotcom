@@ -141,8 +141,8 @@ blockquote cite:before {
     font-size: 36px;
 }
 
-.highlight,
-.code {
+
+code {
     padding: 5px 15px;
     background-color: var(--code-bg-color);
     border-radius: 3px;
