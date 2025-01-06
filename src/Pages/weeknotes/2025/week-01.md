@@ -1,5 +1,5 @@
 ---
-title: Week Notes - 2025 Week 01
+title: Week Notes 2025-01
 date: 2025-01-06
 tags: post
 meta_description: Week Notes for December 30, 2024 - January 5, 2025
