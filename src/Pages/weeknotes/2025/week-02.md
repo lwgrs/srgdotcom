@@ -1,5 +1,5 @@
 ---
-title: Week Notes ##
+title: Week Notes 2025-02
 date: 2025-01-12
 tags: post
 meta_description: Week Notes for January 6 - 12, 2025
