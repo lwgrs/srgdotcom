@@ -20,5 +20,4 @@ meta_image: https://srgower.com/images/WeekNotes-v2.jpg
 
 ### Things I Made This Week
 
-- [Start Small | An Almost Anonymous Blog](https://lwgrs
-- .bearblog.dev/start-small/)
+- [Start Small | An Almost Anonymous Blog](https://lwgrs.bearblog.dev/start-small/)
