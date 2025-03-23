@@ -1,6 +1,6 @@
 ---
 title: Week Notes 2025-12
-date: 2025-03-24
+date: 2025-03-23
 meta_description: Week Notes for March 17-23
 meta_image: https://srgower.com/images/WeekNotes-v1.jpg
 ---
