@@ -61,4 +61,4 @@ Just some things I've read online that interested me and I didn't get around to 
 - [Do our tools really say anything about us as people? | Jason Kratz](https://world.hey.com/jasonekratz/do-our-tools-really-say-anything-about-us-as-people-d63aeec8)
 - [The append-and-review note | karpathy](https://karpathy.bearblog.dev/the-append-and-review-note/)
 - [Bear Blog’s Blind Spot | netigen](https://netigen.com/read/bear-blogs-blind-spot) 
-- [The Notebook Fallacy: Why Ideas Are Cheap](A Room of My Own](https://spasic.me/posts/the-notebook-fallacy-why-ideas-are-cheap)
+- [The Notebook Fallacy: Why Ideas Are Cheap | A Room of My Own](https://spasic.me/posts/the-notebook-fallacy-why-ideas-are-cheap)
