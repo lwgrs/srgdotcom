@@ -19,7 +19,7 @@ meta_image: https://srgower.com/images/WeekNotes-v2.jpg
 - I started work on the Harry Potter "Potions Class" LEGO set ([number 76431](https://www.lego.com/en-ca/product/hogwarts-castle-potions-class-76431)). I'm timing my sessions this time - 1st session was about 26 minutes.
 	- Second session, to complete: 45 minutes. Around an hour and ten minutes total.
 - I had to add some new filters to Mastodon. For Canadian politics (an election was called for April 28th), `CPC`. For general politics and stuff I don't care about, `capitalism` and `GDP`. I'm sure there will be many more as posts crop up. 
-- Started a new "memories" file. Anytime something triggers a memory, write down that memory. And the trigger, when we possible.
+- Started a new "memories" file. Anytime something triggers a memory, write down that memory. And the trigger, when possible.
 - My wife's birthday was Sunday!! We didn't do anything special - napped, went for dinner. It was a crappy day weather-wise, that was disappointing. 
 	- Luckily we did not get as severe a storm as was forecast. 
 ### Health Notes
