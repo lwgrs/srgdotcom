@@ -49,7 +49,7 @@ Other notes:
 - As it turns out, 2025 is my Year of Tech Tinkering 
 
 ### Media 
-- Played my first online vs game of NHL 25 in a while. Won 2-0 despite being outplayed. Videos: ![Pinto scores!](https://youtu.be/ZiPY8462sDM?si=-_8sMt9d-evMJ0xO), ![Tkachuk buries the rebound](https://youtu.be/FD7txkp7FUA?si=UUn1e0zD_kciu8UB)
+- Played my first online vs game of NHL 25 in a while. Won 2-0 despite being outplayed. Videos: [Pinto scores!](https://youtu.be/ZiPY8462sDM?si=-_8sMt9d-evMJ0xO) | [Tkachuk buries the rebound](https://youtu.be/FD7txkp7FUA?si=UUn1e0zD_kciu8UB)
 - The week started off with establishing The Battle of Ontario (Toronto Maple Leafs vs. Ottawa Senators) for round 1 of the NHL playoffs. Buckle up! Unfortunately things didn't go so well in game 1 last night, but that's just one game. The rest of this week will be dominated by playoff watching. 
   - I played two offline games of Ottawa vs. Toronto on NHL 25; I went 1-1, losing big in game 1 and winning big in game 2. Accurate prediction, perhaps? 
 - I started playing [Mole Mania](https://en.wikipedia.org/wiki/Mole_Mania) via the Delta emulator on my iPod Touch; it's a fun game and was recommended to me by a friend as on the same tier as [Donkey Kong](https://lwgrs.neocities.org/2023/07/15/donkey-kong-game-boy-1994/) as one of the best Game Boy games. So far - it holds up. I will probably write a review of it for my gaming blog. 
