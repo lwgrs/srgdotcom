@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 <h2>Week Notes</h2>
 A collection of weekly notes summarizing what I've been up to during any given week. Each note includes things I've created during the previous week.
-<p><sub><strong><a href="/feed/feed.xml">Subscribe to the RSS Feed</a></strong></sub></p>
+<p><sub><strong><a href="https://subscribeopenly.net/subscribe/?url=https://srgower.com/feed/feed.xml">Subscribe to the RSS Feed</a></strong></sub></p>
 
 
 <ul>

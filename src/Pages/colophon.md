@@ -22,5 +22,6 @@ layout: "post"
 * [EchoFeed](https://echofeed.app) 
 * [Bear Blog](https://bearblog.dev) 
 * [ImgBB](https://imgbb.com)
+* [Subscribe Openly](https://subscribeopenly.net)
 
 ### And lots of help from the [11ty Discord server](https://discord.com/channels/741017160297611315/)!
