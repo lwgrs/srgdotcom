@@ -16,4 +16,6 @@ If you'd like to get in touch with me, I have a few options for you:
 <p class="indent"><a class="contact" rel = "me" href="https://ottawa.place/@srgower" target="_blank"><img class="icon" src="/icons/mastodon.svg" alt="Mastodon icon" /> Mastodon</a><a class="contact" rel = 
 "me" href="https://bsky.app/profile/srgower.com" target="_blank"><img class="icon" src="/icons/bluesky.svg" alt="Bluesky icon" /> Bluesky↗</a><a class="contact" href="https://www.threads.net/@srgower" target="_blank"><img class="icon" src="/icons/threads.svg" alt="Threads icon" /> Threads</a></p>
 
+Check out [my shop at Ko-Fi](https://ko-fi.com/stephengower78882). I am (slowly) posting various products for purchase there. 
+
 If you like what you see of my work, please consider [buying me a coffee!](https://www.buymeacoffee.com/srgower) <img class="icon" src="/icons/buymeacoffee.svg" alt="Buy Me A Coffee"/>

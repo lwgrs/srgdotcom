@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 7
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;"> July 2025</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;"> August 2025</strong>.</p>
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about).*
 
@@ -20,6 +20,7 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 * [Photo Blog](https://photos.srgower.com) - read the [Changelog](https://photos.srgower.com/changelog/) *No pressing changes to the site design, now just making regular posts* 
 * [MLB The Show 24 Franchise Mode tracker](https://franchise.lwgrs.cloud) 
 * [My personal library of physical media](https://library.srgower.com) 
+* [Ko-Fi Shop](https://ko-fi.com/stephengower78882)
 
 
 ### Things I'm Into At the Moment 
