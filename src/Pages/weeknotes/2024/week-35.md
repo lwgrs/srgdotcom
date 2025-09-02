@@ -4,6 +4,7 @@ date: 2024-12-09
 tags: post
 meta_description: Week Notes for December 2 - 8, 2024
 meta_image: https://srgower.com/images/WeekNotes-v1.jpg
+permalink: /weeknotes/{{ date | justYear }}-{{ page.fileSlug }}/
 ---
 
 # {{ title }}

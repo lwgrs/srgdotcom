@@ -3,6 +3,7 @@ title: Week Notes 2025-09
 date: 2025-03-02
 meta_description: Week Notes for February 24-March 2
 meta_image: https://srgower.com/images/WeekNotes-v4.jpg
+permalink: /weeknotes/{{ date | justYear }}-{{ page.fileSlug }}/
 ---
 
 # {{ title }}

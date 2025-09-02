@@ -3,6 +3,7 @@ title: Week Notes 2025-15
 date: 2025-04-12
 meta_description: Week Notes for April 7 - 13 2025
 meta_image: https://srgower.com/images/WeekNotes-v4.jpg
+permalink: /weeknotes/{{ date | justYear }}-{{ page.fileSlug }}/
 ---
 # {{ title }}
 

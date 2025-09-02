@@ -4,6 +4,7 @@ date: 2024-11-25
 tags: post
 meta_description: Week Notes for November 18 - November 23, 2024
 meta_image: https://srgower.com/images/WeekNotes-v4.jpg
+permalink: /weeknotes/{{ date | justYear }}-{{ page.fileSlug }}/
 ---
 
 # {{ title }}

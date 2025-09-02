@@ -4,6 +4,7 @@ date: 2025-01-12
 tags: post
 meta_description: Week Notes for January 6 - 12, 2025
 meta_image: https://srgower.com/images/WeekNotes-v2.jpg
+permalink: /weeknotes/{{ date | justYear }}-{{ page.fileSlug }}/
 ---
 
 # {{ title }}

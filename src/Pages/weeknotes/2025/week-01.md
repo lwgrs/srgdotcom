@@ -4,6 +4,7 @@ date: 2025-01-06
 tags: post
 meta_description: Week Notes for December 30, 2024 - January 5, 2025
 meta_image: https://srgower.com/images/WeekNotes-v1.jpg
+permalink: /weeknotes/{{ date | justYear }}-{{ page.fileSlug }}/
 ---
 
 # {{ title }}
