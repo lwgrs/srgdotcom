@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 7
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;"> August 2025</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;">October 2025</strong>.</p>
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about).*
 
@@ -26,7 +26,6 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 ### Things I'm Into At the Moment 
 
 I track pretty much everything that I'm reading/watching/listening to with the help of several websites. 
-- My [Storygraph profile](https://app.thestorygraph.com/profile/srgower) for books I'm currently reading as well as reviews and ratings for previous reads
 - My [Letterboxd profile](https://letterboxd.com/stephen_g/) for movies I've watched & rated/reviewed
 - My [Last.FM profile](https://www.last.fm/user/sgower) for what I've listened to recently
   - Bonus: some [fun reports](https://www.last.fm/user/sgower/listening-report) Last.FM generates based on my listening activity
