@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 7
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;">October 2025</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;">January 2026</strong>.</p>
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about).*
 
@@ -29,6 +29,7 @@ I track pretty much everything that I'm reading/watching/listening to with the h
 - My [Letterboxd profile](https://letterboxd.com/stephen_g/) for movies I've watched & rated/reviewed
 - My [Last.FM profile](https://www.last.fm/user/sgower) for what I've listened to recently
   - Bonus: some [fun reports](https://www.last.fm/user/sgower/listening-report) Last.FM generates based on my listening activity
+  - I started tracking [albums I've listened to in 2026](https://albumwhale.com/stephen-gower/2026-albums) on Album Whale
 - While not tracked outside the PS App, I am playing a lot more video games recently since I purchased a PS5 in early 2025.
  
 
