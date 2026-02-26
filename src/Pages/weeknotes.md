@@ -4,9 +4,14 @@ eleventyNavigation:
    key: Week Notes
    order: 6
 ---
-<h2>Week Notes</h2>
-A collection of weekly notes summarizing what I've been up to during any given week. Each note includes things I've created during the previous week.
-<p><sub><strong><a href="https://subscribeopenly.net/subscribe/?url=https://srgower.com/feed/feed.xml">Subscribe to the RSS Feed</a></strong></sub></p>
+
+## Week Notes
+
+*A collection of weekly notes summarizing what I've been up to during any given week. Each note includes things I've created during the previous week.*
+
+<!-- <p><sub><strong><a href="https://subscribeopenly.net/subscribe/?url=https://srgower.com/feed/feed.xml">Subscribe to the RSS Feed</a></strong></sub></p> -->
+
+**I've moved my week notes over to my "main" blog** - you can view them with the [week notes tag](https://lwgrs.bearblog.dev/blog/?q=weeknotes).
 
 
 <ul>

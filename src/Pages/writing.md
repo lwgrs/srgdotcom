@@ -16,6 +16,6 @@ eleventyNavigation:
 {% endfor%}
 </ul>
 
-<img class ="icon" src="/icons/lwgrs-gaming.svg" alt="The letter L" /> [Gaming with lwgrs](https://lwgrs.neocities.org): I started this blog to talk about video games - mostly "retro" games, but this ranges from NES to PS3, to retro-styled mobile games.
+<img class ="icon" src="/icons/lwgrs-gaming.svg" alt="The letter L" /> [Gaming with lwgrs](https://gaming.lwgrs.cloud): I started this blog to talk about video games - mostly "retro" games, but this ranges from NES to PS3, to retro-styled mobile games. Recently I have written about PS5 games since purchasing the console in March 2025.
 
 
