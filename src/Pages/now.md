@@ -22,7 +22,7 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 * [My personal library of physical media](https://library.srgower.com) 
   * A replacement 11ty site specifically for 4K media
 * [Gaming with lwgrs](https://gaming.lwgrs.cloud)
-* [Puzzles & Projects](https://puzzles-projects.netlify.app)
+* [Puzzles & Projects](https://puzzle-projects.netlify.app/)
 * [Ko-Fi Shop](https://ko-fi.com/stephengower78882)
 
 
