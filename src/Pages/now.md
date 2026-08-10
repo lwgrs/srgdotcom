@@ -5,9 +5,12 @@ eleventyNavigation:
   order: 7
 ---
 
-<p class="now-page">Page last updated: <strong style="color:#d90202;">March 2026</strong>.</p>
+<p class="now-page">Page last updated: <strong style="color:#d90202;">August 2026</strong>.</p>
 
 *This is a snapshot of what I'm doing now. Read more about "Now" pages at [https://nownownow.com/about](https://nownownow.com/about).*
+
+### Personal 
+I'm preparing to become a first-time Dad early January 2027.
 
 ### Work 
 I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a href="https://www.rogerssportsandmedia.com" target="_blank">Rogers Sports & Media</a>) in Ottawa, Ontario.[^1] I've been there since May 2006. 
@@ -18,13 +21,14 @@ I'm currently the Regional Traffic Manager for Rogers Radio (a division of <a hr
 * Several [podcasts](/podcasts/)
 * [An Almost Anonymous Blog](https://lwgrs.bearblog.dev) 
 * [Photo Blog](https://photos.srgower.com) - read the [Changelog](https://photos.srgower.com/changelog/) *No pressing changes to the site design, now just making regular posts* 
-* [MLB The Show 24 Franchise Mode tracker](https://franchise.lwgrs.cloud) 
-* [My personal library of physical media](https://library.srgower.com) 
-  * A replacement 11ty site specifically for 4K media
 * [Gaming with lwgrs](https://gaming.lwgrs.cloud)
 * [Puzzles & Projects](https://puzzle-projects.netlify.app/)
 * [Ko-Fi Shop](https://ko-fi.com/stephengower78882)
 
+### Finished or Incomplete Projects
+* [MLB The Show 24 Franchise Mode tracker](https://franchise.lwgrs.cloud) 
+* [My personal library of physical media](https://library.srgower.com) 
+  * A replacement 11ty site specifically for 4K media
 
 ### Things I'm Into At the Moment 
 
